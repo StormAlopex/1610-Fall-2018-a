@@ -1,5 +1,17 @@
-Friday 
+Thursday
 
 High 81 
 
 Low 59
+
+Friday
+
+High 90
+
+Low 57
+
+Saturday
+
+High 91
+
+Low 61
