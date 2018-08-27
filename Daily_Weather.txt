@@ -15,3 +15,9 @@ Saturday
 High 91
 
 Low 61
+
+Sunday
+
+High 90
+
+Low 61
