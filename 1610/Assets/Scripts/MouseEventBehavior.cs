@@ -1,12 +1,18 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class MouseDownBehavior : MonoBehaviour {
+public class MouseEventBehavior : MonoBehaviour
+{
 
     public UnityEvent MouseDown;
     public UnityEvent MouseUp;
 
     private void OnMouseDown()
+    {
+        MouseDown.Invoke();
+    }
+
+    private void OnMouseUp()
     {
         MouseDown.Invoke();
     }
