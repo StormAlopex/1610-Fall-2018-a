@@ -12,3 +12,15 @@ MonoBehaviour:
   m_Name: AddHealth
   m_EditorClassIdentifier: 
   ValueObj: {fileID: 11400000, guid: f195209b03197e849876f3fbf7a1ab6e, type: 2}
+  MaxValue: {fileID: 0}
+  MinValue: {fileID: 0}
+  Event:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  EventMax:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
