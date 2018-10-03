@@ -1,13 +1,18 @@
 ﻿using UnityEngine;
 
 [CreateAssetMenu]
-public class PowerUp : ScriptableObject {
+public class ValueChange : ScriptableObject {
 
     public FloatData Data;
 
-    public void OnPowerUp(FloatData outsideData)
+    public void AddValue(FloatData data)
     {
-        outsideData.Value += Data.Value;        
+        data.Value += Data.Value;        
     }
 
+   // -
+
+    //*
+
+    ///
 }
