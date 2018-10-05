@@ -20,20 +20,24 @@ public class CharacterMover : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
         if (controller.isGrounded)
         {
-            position.Set(0, 0, MoveSpeed*Input.GetAxis("Vertical"));
+
+            position.Set(0, 0, MoveSpeed * Input.GetAxis("Vertical"));
             rotation.Set(0, Input.GetAxis("Horizontal"), 0);
             transform.Rotate(rotation);
             position = transform.TransformDirection(position);
-
-
 
             if (Input.GetButton("Jump"))
             {
                 position.y = JumpSpeed;
             }
         }
+
+        
+
         position.y -= Gravity * Time.deltaTime;
         controller.Move(position * Time.deltaTime);
 	}
