@@ -27,5 +27,12 @@ public class DestroyObject : MonoBehaviour {
 
     }
 
+    private void OnCollisionExit(Collision other)
+    {
+        Destroy(other.gameObject);
+        Destroy(gameObject);
+
+
+    }
 
 }
