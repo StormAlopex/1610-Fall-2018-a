@@ -23,3 +23,5 @@ High 90
 Low 61
 
 psst: are  you still checking this?
+
+when gitkraken screws you over
