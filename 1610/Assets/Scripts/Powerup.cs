@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 [CreateAssetMenu]
 public class ValueChange : ScriptableObject {
@@ -10,9 +10,4 @@ public class ValueChange : ScriptableObject {
         data.Value += Data.Value;        
     }
 
-   //-
-
-    //*
-
-    ///
 }
