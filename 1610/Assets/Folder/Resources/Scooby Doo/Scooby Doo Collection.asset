@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc6d608e91aff7e498e3252580eae0b7, type: 3}
+  m_Name: Scooby Doo Collection
+  m_EditorClassIdentifier: 
+  ObjectList:
+  - {fileID: 11400000, guid: 28fae66e93f7af5488b6a4091fa2e70a, type: 2}
+  - {fileID: 11400000, guid: 09bcd47af97f41d4fb89af97d03ec9af, type: 2}
+  - {fileID: 11400000, guid: 91a9fe1f5c695fb489fe921e5b06b9a8, type: 2}
+  - {fileID: 11400000, guid: 15f15a6fbb0752a42823730a6f8919b2, type: 2}
+  - {fileID: 11400000, guid: 705cbbcdce7ce3c47a88cbd02c4a6262, type: 2}
+  - {fileID: 11400000, guid: ffd0443fffa08fc41805d791dc497091, type: 2}
+  - {fileID: 11400000, guid: ffd0443fffa08fc41805d791dc497091, type: 2}
+  - {fileID: 11400000, guid: ffd0443fffa08fc41805d791dc497091, type: 2}
+  - {fileID: 11400000, guid: ffd0443fffa08fc41805d791dc497091, type: 2}
