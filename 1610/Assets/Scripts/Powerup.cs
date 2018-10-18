@@ -21,4 +21,8 @@ public class ValueChange : ScriptableObject {
     public void DivideValue(FloatData data){
         data.Value /= Data.Value;
     }
+
+    public void ExponentValue(FloatData data) {
+        data.Value * data.Value = Data.Value;
+    }
 }
