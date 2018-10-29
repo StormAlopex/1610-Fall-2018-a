@@ -22,7 +22,6 @@ public class ValueChange : ScriptableObject {
         data.Value /= Data.Value;
     }
 
-    public void ExponentValue(FloatData data) {
-        data.Value * data.Value = Data.Value;
-    }
+   
+    
 }
