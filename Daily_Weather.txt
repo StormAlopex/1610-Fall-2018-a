@@ -48,3 +48,14 @@ Happy Blizzcon
 League of Legends final was extremely disappointing
 
 AI prep in progress
+
+
+notes for Esports lab:
+
+HeroesOfTheStorm_x64.exe
+HeroesSwitcher_x64.exe 
+
+Agent.exe 
+Battle.net.exe
+
+
